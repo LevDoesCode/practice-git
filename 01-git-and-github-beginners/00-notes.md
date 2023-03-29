@@ -1,13 +1,18 @@
 Based on the freeCodeCamp lesson at https://www.youtube.com/watch?v=RGOj5yH7evk
 
+## Links
+
+
 ## Terms
 CLI - **C**ommand **L**ine **I**nterface  
-`cd` - **C**hange **D**irectory  
+`cd` - **C**hange **D**irectory
 
-## Git Commands
-`clone` - Bring a repository hosted somewhere else like GitHub into a local folder  
-`add` - Track a file or folder contents in Git  
-`commit` - Save your files in Git  
-`push` - Upload Git commits to a remote repository, such as GitHub, BitButcket, etc.  
-`pull` - Download changes from a remote repository, the opposite of push.
+## Creating SSH Key
+`ssh-keygen -t rsa -b 4096 -C "levdoescode@gmail.com"`  
+It will save in the default folder  
+`C:\Users\lev-user\.ssh`  
+You can change the name or leave the default `id_rsa` name.  
+A passphrase is also optional.
+
+[Generating a new SSH key and adding to ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
