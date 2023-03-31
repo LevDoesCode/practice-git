@@ -7,3 +7,4 @@
 * `pull` - Download changes from a remote repository, the opposite of push.
 * `status` - check which files are tracked and untracked  
 * `git init -b main` - Initiate a repo with a named branch
+* `git test` - Test update to raise a conflict
