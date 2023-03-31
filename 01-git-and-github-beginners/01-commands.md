@@ -17,3 +17,4 @@
 * `git pull --rebase origin my-branch` - Long version
 * `git test` - Test update to raise a conflict
 * `git rebase --continue` - Continue the rebase once the conflicts have been solved
+* `git push -f` - Force push if you know local is ahead of remote
